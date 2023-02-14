@@ -30,10 +30,10 @@ export const initialState = {
     counter : 1,
     users : [
         {
-            // id : 0,
-            // title : "title",
-            // memo : "memo",
-            // isDone : false,
+            id : 0,
+            title : "title",
+            memo : "memo",
+            isDone : false,
         }
     ]
 }
