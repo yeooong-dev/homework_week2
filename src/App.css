@@ -87,7 +87,7 @@ body{
     position: relative;
     width: 70%; height: 120px;
     margin: 50px auto;
-    background-color: rgb(211, 208, 199);
+    background-color: #FFFFFB;
     border-radius: 20px;
     display: flex;
     align-items: center;
