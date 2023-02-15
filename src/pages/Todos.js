@@ -13,7 +13,7 @@ const StMain = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color:#f6f6f6;
+    background-color:#FFFFFB;
     margin-top:50px;
     border-radius:20px;
     box-shadow: 6px 7px 5px 0px rgba(0,0,0,0.22);
@@ -29,7 +29,7 @@ const StDiv = styled.div`
 `
 const StBtn = styled.button`
     width:160px; height:50px;
-    background-color:rgb(44, 43, 52);
+    background-color:#45b194;
     border-radius:30px;
     font-size:1.2rem;
     font-weight:bold;
@@ -56,7 +56,7 @@ const StId = styled.div`
     text-align:center;
     line-height:53px;
     font-size:2rem;
-    background-color:rgb(44, 43, 52);
+    background-color:#45b194;
     border-radius:50%;
     color:white;
 `

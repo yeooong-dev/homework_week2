@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: rgb(212, 212, 212);
+    background-color: rgb(245, 244, 239);
     font-family: 'SEBANG_Gothic_Bold';
     display: flex;
     align-items: center;
@@ -24,17 +24,17 @@ body{
 .div_box{
     position: relative;
     width: 1100px; height: 1000px;
-    background-color: rgb(44, 43, 52);
+    background-color: rgb(234, 233, 217);
     border-radius: 30px;
     text-align: center;
-    box-shadow: 7px 8px 5px 0px rgba(94,94,94,0.32);
+    box-shadow: 7px 8px 5px 0px rgba(201, 198, 167, 0.32);
     -webkit-box-shadow: 7px 8px 5px 0px rgba(94,94,94,0.32);
     -moz-box-shadow: 7px 8px 5px 0px rgba(94,94,94,0.32);
     overflow:scroll;
     }
 
 .title{
-    color: white;
+    color: #546b6d;
     font-size: 3rem;
     margin-top: 100px;
 }
@@ -55,7 +55,7 @@ body{
 
 .btn{
     width: 150px; height: 45px;
-    background-color: #c24848;
+    background-color: #45b194;
     border: none;
     color: white;
     font-size: 1.2rem;
@@ -63,14 +63,14 @@ body{
     transition: .3s;
 }
 .btn:hover{
-    background: #aeaeae;
+    background:  rgb(211, 208, 199);
     color: black;
 }
 .m >h1{
     width: 160px; height: 50px;
     line-height: 50px;
-    color: white;
-    border: 2px solid #929292;
+    color: #5c6162;
+    border: 2px solid #afb7b7;
     border-radius: 10px;
     font-size: 1.5rem;
     margin-top: 80px;
@@ -87,20 +87,21 @@ body{
     position: relative;
     width: 70%; height: 120px;
     margin: 50px auto;
-    background-color: rgb(235, 233, 238);
+    background-color: rgb(211, 208, 199);
     border-radius: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     font-size: 1.3rem;
+    color:#62615c;
 }
 
 .delete_btn{
     position: absolute;
     top: 15px; right: 60px;
     width:90px; height: 40px;
-    background: #c24848;
+    background: #e86868;
     border: none;
     border-radius: 10px;
     color: white;
@@ -117,7 +118,7 @@ body{
     position: absolute;
     top: 65px; right: 60px;
     width:90px; height: 40px;
-    background:  rgb(44, 43, 52);
+    background:   #45b194;
     border: none;
     border-radius: 10px;
     color: white;
